@@ -1,13 +1,13 @@
-Olá 👋 Meu nome é KASHI
+  KASHI
 ===================
 
-O
+Olá amigo!
 -
 
 Estou começando minha jornada como hacker ético, explorando o fascinante mundo da cibersegurança.
 
 *   🧠 Estou aprendendo Full Stack
-*   🤝 Estou aberto a colaborar em A### Habilidades 
+*   🤝 Estou aberto a colaborar em projetos conforme minhas Habilidades  
 <p align="left">
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
                     </p>
